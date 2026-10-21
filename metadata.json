@@ -1,0 +1,6 @@
+{
+  "name": "ReserveSeat - Event Booking & Seat Reservation Platform",
+  "description": "Production event booking and seat reservation platform featuring concurrency-safe seat holds, live interactive venue maps, QR check-in, and organizer analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
